@@ -1,6 +1,6 @@
 %define module   Text-Trac
 %define version    0.12
-%define release    %mkrel 1
+%define release    %mkrel 2
 
 Name:       perl-%{module}
 Version:    %{version}
